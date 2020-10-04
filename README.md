@@ -1,2 +1,2 @@
-# python_django_website
+# Django Blog
 A blog website with django web-framework
